@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[HandKnit.Life]]></title>
-        <description><![CDATA[HandKnit.Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Talking about life, one stitch at a time.]]></title>
+        <description><![CDATA[Talking about life, one stitch at a time.]]></description>
+        <link>https://thegrid.ai/handknit-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 17:02:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Mar 2016 17:04:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/handknit-life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[With every season, there comes a new color…]]></title>
             <description><![CDATA[<article><h1>With every season, there comes a new color…</h1><p>I’m fascinated, yet confounded by how often I see news about color.  This seasons colors….. Pantone’s colors… home decor… fashion….</p></article>]]></description>
-            <link>undefinedwith-every-season-there-comes-a-new-color/index.html</link>
+            <link>https://thegrid.ai/handknit-life/with-every-season-there-comes-a-new-color/index.html</link>
             <guid isPermaLink="false">a64546bf-205e-40f2-b070-06269e7394a4</guid>
-            <pubDate>Sun, 27 Mar 2016 17:02:31 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 17:04:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
